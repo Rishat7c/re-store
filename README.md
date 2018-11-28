@@ -1,3 +1,3 @@
 ## REST сервис
 
-# koa, graphql, babel, eslint, nodemon etc.
+Бэкенд на pepelatz.club используя Koa, MongoDB and GraphQL
