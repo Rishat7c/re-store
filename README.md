@@ -1,3 +1,3 @@
 ## REST сервис
 
-Бэкенд на pepelatz.club используя Koa, MongoDB and GraphQL
+Бэкенд на rishat7c.pro используя Koa, MongoDB and GraphQL
